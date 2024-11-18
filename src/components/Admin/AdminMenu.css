@@ -1,0 +1,30 @@
+.navbar {
+    border-bottom: 2px solid #fff;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
+  .offcanvas-header {
+    background-color: #007bff;
+  }
+  
+  .offcanvas-title {
+    font-size: 1.2rem;
+  }
+  
+  .nav-link {
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .nav-link:hover {
+    background-color: #0056b3;
+    border-radius: 0.5rem;
+  }
+  
+  .text-danger {
+    font-weight: bold;
+  }
+  
